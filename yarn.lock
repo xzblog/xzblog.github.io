@@ -1761,7 +1761,7 @@ http-errors@~1.7.2:
     statuses ">= 1.5.0 < 2"
     toidentifier "1.0.0"
 
-inferno-create-element@^7.3.3:
+inferno-create-element@^7.3.3, inferno-create-element@^7.4.2:
   version "7.4.2"
   resolved "https://registry.npm.taobao.org/inferno-create-element/download/inferno-create-element-7.4.2.tgz#d3ac6c64c792f8d3c4784279825418ebd73cfe1c"
   integrity sha1-06xsZMeS+NPEeEJ5glQY69c8/hw=
@@ -1785,7 +1785,7 @@ inferno-vnode-flags@7.4.2:
   resolved "https://registry.npm.taobao.org/inferno-vnode-flags/download/inferno-vnode-flags-7.4.2.tgz#54982dabe34f308853ba17de7de4241e23769135"
   integrity sha1-VJgtq+NPMIhTuhfefeQkHiN2kTU=
 
-inferno@7.4.2, inferno@^7.3.3:
+inferno@7.4.2, inferno@^7.3.3, inferno@^7.4.2:
   version "7.4.2"
   resolved "https://registry.npm.taobao.org/inferno/download/inferno-7.4.2.tgz#833cc423ee7b939fad705c59ea41924f31c92453"
   integrity sha1-gzzEI+57k5+tcFxZ6kGSTzHJJFM=
